@@ -1,12 +1,16 @@
 # GGJ2019 - TV Aerial Simulator
 
-## What is TVC Aerial Simulator
+"Recreating that lost+cherished moment from the 70s of aligning your TV aerial"
+
+## What is TV Aerial Simulator?
+
+TV Aerial Simulator recreates a fond memory? from the 70s. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would be worrying us all from the roof while he moved the aerial futily in the sisyphean task.
 
 ## Background
 
 TV Aerial Simulator was created for the 48hr game jam for the theme **What Does Home Mean to You?**
 
-inspired by Sacred Harvest 
+The game was inspired previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
 
 ## Third Party Assets
 
@@ -24,6 +28,7 @@ http://www.bigbuckbunny.org/
 
 How to format README.md - https://help.github.com/articles/basic-writing-and-formatting-syntax/
 Sacred Harvest - http://ben.kirman.org/2015/05/sacred-harvest/
+Keep Talking and Nobody Explodes - https://globalgamejam.org/2014/games/keep-talking-and-nobody-explodes-oculus-rift-razer-hydra.
 
 ## Credits:
 
