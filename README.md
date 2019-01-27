@@ -4,10 +4,10 @@
 
 ## What is TV Aerial Simulator?
 
-TV Aerial Simulator recreates our fond memories from the 70s of aligning TV aerials. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would be balancing on the roof while moving the TV aerial in the somewhat futile task of getting a better signal.
+TV Aerial Simulator recreates our fond memories from the 70s of aligning TV aerials. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would balancie on the roof while moving the TV aerial in the somewhat futile task of getting a better signal.
 
 The game needs two or more people to play. One person is placed in VR in an authentic 1970s living room, complete with CRT TV.
-The other player is the one who would be on a roof. They must move the aerial around to the instructions from the person watching the TV in VR.
+The other player is the one who would be on a roof. They must move the aerial around to the instructions from the person watching the TV in VR to get a better picture.
 
 ## Background
 
