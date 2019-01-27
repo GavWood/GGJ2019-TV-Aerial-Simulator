@@ -14,24 +14,18 @@ The game was inspired previous GGJ games including Sacred Harvest and Keep Talki
 
 ## Third Party Assets
 
-Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
-
-Big Buck Bunny used in video (see https://en.wikipedia.org/wiki/Big_Buck_Bunny / https://peach.blender.org/about/ )
-The movie is licensed under CC-BY, read more about what that means
-
-## Assets
-Wooded cabinet, https://opengameart.org/content/wood-texture-tiles
+Big Buck Bunny, Copyright (C) 2008 Blender Foundation | peach.blender.org ome Rights Reserved. Creative Commons Attribution 3.0 license (https://creativecommons.org/licenses/by/3.0/)
+http://www.bigbuckbunny.org/
 
 Carpet, Attribution 3.0 Unported (CC BY 3.0), https://opengameart.org/content/carpet-texture-red-seamless-texture-with-normalmap
 
 Ceiling, para, cc0, https://opengameart.org/content/ceiling-tile-texture
 
+Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
+
 Wallpaper, CC0 Public Domain, https://www.publicdomainpictures.net/en/view-image.php?image=234438&picture=leaves
 
-## Big Buck Bunny
-Copyright (C) 2008 Blender Foundation | peach.blender.org
-Some Rights Reserved. Creative Commons Attribution 3.0 license (https://creativecommons.org/licenses/by/3.0/)
-http://www.bigbuckbunny.org/
+Wooded cabinet, https://opengameart.org/content/wood-texture-tiles
 
 ## References
 Sacred Harvest, http://ben.kirman.org/2015/05/sacred-harvest/
@@ -40,11 +34,13 @@ Keep Talking and Nobody Explodes, https://globalgamejam.org/2014/games/keep-talk
 
 ## Credits:
 
-John Rooksby - Game Design
+Gavin Wood, Game Design, https://globalgamejam.org/users/gavin-wood
 
-Gavin Wood - Game Design
+John Rooksby, Game Design, https://globalgamejam.org/users/johnrooksby
 
-Ryan Milner (rtm516) - Programming and Unity guidance - https://globalgamejam.org/users/rtm516
+Ryan Milner, Programming and Unity guidance - https://globalgamejam.org/users/rtm516
+
+Andrew Patton, Programming and Unity guidance, https://globalgamejam.org/users/andrewpatton
 
 ## Notes
 
