@@ -28,9 +28,9 @@ http://www.bigbuckbunny.org/
 
 ## References
 
-How to format README.md - https://help.github.com/articles/basic-writing-and-formatting-syntax/
-Sacred Harvest - http://ben.kirman.org/2015/05/sacred-harvest/
-Keep Talking and Nobody Explodes - https://globalgamejam.org/2014/games/keep-talking-and-nobody-explodes-oculus-rift-razer-hydra.
+How to format README.md, https://help.github.com/articles/basic-writing-and-formatting-syntax/
+Sacred Harvest, http://ben.kirman.org/2015/05/sacred-harvest/
+Keep Talking and Nobody Explodes, https://globalgamejam.org/2014/games/keep-talking-and-nobody-explodes-oculus-rift-razer-hydra.
 
 ## Credits:
 
