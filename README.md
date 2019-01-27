@@ -1,16 +1,18 @@
 # GGJ2019 - TV Aerial Simulator
 
-"Recreating that lost+cherished moment from the 70s of aligning your TV aerial"
+"Recreating that lost moment from the 70s of aligning your TV aerial"
 
 ## What is TV Aerial Simulator?
 
-TV Aerial Simulator recreates a fond memory? from the 70s. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would be worrying us all from the roof while he moved the aerial futily in the sisyphean task.
+TV Aerial Simulator recreates our fond memories from the 70s of aligning TV aerials. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would be balancing on the roof while moving the TV aerial in the somewhat futile task of getting a better signal.
 
 ## Background
 
 TV Aerial Simulator was created for the 48hr game jam for the theme **What Does Home Mean to You?**
 
 The game was inspired previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
+
+Hashtags: sisyphean
 
 ## Third Party Assets
 
@@ -35,3 +37,4 @@ Keep Talking and Nobody Explodes - https://globalgamejam.org/2014/games/keep-tal
 John Rooksby - Game Design
 Gavin Wood - Game Design
 Ryan Milner - Programming and Unity guidance - https://globalgamejam.org/users/rtm516
+
