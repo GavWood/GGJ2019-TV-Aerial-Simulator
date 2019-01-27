@@ -34,11 +34,11 @@ Keep Talking and Nobody Explodes, https://globalgamejam.org/2014/games/keep-talk
 
 ## Credits:
 
-John Rooksby - Game Design
+Gavin Wood, Game Design, https://globalgamejam.org/users/gavin-wood
 
-Gavin Wood - Game Design
+John Rooksby, Game Design, https://globalgamejam.org/users/johnrooksby
 
-Ryan Milner (rtm516) - Programming and Unity guidance - https://globalgamejam.org/users/rtm516
+Ryan Milner (rtm516), Programming and Unity guidance - https://globalgamejam.org/users/rtm516
 
 ## Notes
 
