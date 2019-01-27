@@ -6,13 +6,13 @@
 
 TV Aerial Simulator recreates our fond memories from the 70s of aligning TV aerials. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would balance on the roof while moving the TV aerial in the somewhat futile task of getting a better signal.
 
-The game is played in VR and needs two or more people to play. One person wears the VR headset and sees an "authentic" 1970s living room and the TV. The other player is the one who would be on a roof. They must move the aerial around to the instructions from the person watching the TV in VR to get a better picture.
+The game is played in VR and needs two or more people to play. One person wears the VR headset and sees an "authentic" 1970s living room and the TV. The other player is the one who would be on a roof. They must move the aerial around to the instructions from the person watching TV to get a better picture.
 
 ## Background
 
 TV Aerial Simulator was created for the 48hr game jam for the theme **What Does Home Mean to You?**
 
-The game was inspired previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
+The game was inspired by previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
 
 ## Third Party Assets
 
