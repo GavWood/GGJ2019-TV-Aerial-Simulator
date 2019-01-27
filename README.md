@@ -12,8 +12,6 @@ TV Aerial Simulator was created for the 48hr game jam for the theme **What Does 
 
 The game was inspired previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
 
-Hashtags: sisyphean
-
 ## Third Party Assets
 
 Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
@@ -27,9 +25,8 @@ Some Rights Reserved. Creative Commons Attribution 3.0 license (https://creative
 http://www.bigbuckbunny.org/
 
 ## References
-
-How to format README.md, https://help.github.com/articles/basic-writing-and-formatting-syntax/
 Sacred Harvest, http://ben.kirman.org/2015/05/sacred-harvest/
+
 Keep Talking and Nobody Explodes, https://globalgamejam.org/2014/games/keep-talking-and-nobody-explodes-oculus-rift-razer-hydra.
 
 ## Credits:
@@ -38,3 +35,7 @@ John Rooksby - Game Design
 Gavin Wood - Game Design
 Ryan Milner - Programming and Unity guidance - https://globalgamejam.org/users/rtm516
 
+## Notes
+
+README.md, https://help.github.com/articles/basic-writing-and-formatting-syntax/
+Hashtags: sisyphean
