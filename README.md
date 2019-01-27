@@ -13,6 +13,7 @@ TV Aerial Simulator was created for the 48hr game jam for the theme **What Does 
 The game was inspired previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
 
 ## Third Party Assets
+Wood asset, https://opengameart.org/content/wood-texture-tiles
 
 Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
 
