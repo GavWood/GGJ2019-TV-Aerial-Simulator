@@ -38,7 +38,9 @@ Gavin Wood, Game Design, https://globalgamejam.org/users/gavin-wood
 
 John Rooksby, Game Design, https://globalgamejam.org/users/johnrooksby
 
-Ryan Milner (rtm516), Programming and Unity guidance - https://globalgamejam.org/users/rtm516
+Ryan Milner, Programming and Unity guidance - https://globalgamejam.org/users/rtm516
+
+Andrew Patton, Programming and Unity guidance, https://globalgamejam.org/users/andrewpatton
 
 ## Notes
 
