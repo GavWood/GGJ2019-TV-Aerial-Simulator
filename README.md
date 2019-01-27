@@ -21,8 +21,12 @@ The movie is licensed under CC-BY, read more about what that means
 
 ## Assets
 Wooded cabinet, https://opengameart.org/content/wood-texture-tiles
+
 Carpet, Attribution 3.0 Unported (CC BY 3.0), https://opengameart.org/content/carpet-texture-red-seamless-texture-with-normalmap
+
 Ceiling, para, cc0, https://opengameart.org/content/ceiling-tile-texture
+
+Wallpaper, CC0 Public Domain, https://www.publicdomainpictures.net/en/view-image.php?image=234438&picture=leaves
 
 ## Big Buck Bunny
 Copyright (C) 2008 Blender Foundation | peach.blender.org
