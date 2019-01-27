@@ -1,18 +1,22 @@
 # GGJ2019
-TV Aerial Simulator
+# TV Aerial Simulator
 
 
-Third Party Assets:
+#Third Party Assets
 
 Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
 
 Big Buck Bunny used in video (see https://en.wikipedia.org/wiki/Big_Buck_Bunny / https://peach.blender.org/about/ )
 The movie is licensed under CC-BY, read more about what that means
 
-Big Buck Bunny
+## Big Buck Bunny
 Copyright (C) 2008 Blender Foundation | peach.blender.org
 Some Rights Reserved. Creative Commons Attribution 3.0 license (https://creativecommons.org/licenses/by/3.0/)
 http://www.bigbuckbunny.org/
+
+## References
+
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 Credits:
 
