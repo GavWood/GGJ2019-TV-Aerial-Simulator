@@ -1,8 +1,14 @@
-# GGJ2019
-# TV Aerial Simulator
+# GGJ2019 - TV Aerial Simulator
 
+## What is TVC Aerial Simulator
 
-#Third Party Assets
+## Background
+
+TV Aerial Simulator was created for the 48hr game jam for the theme **What Does Home Mean to You?**
+
+inspired by Sacred Harvest 
+
+## Third Party Assets
 
 Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
 
@@ -16,9 +22,10 @@ http://www.bigbuckbunny.org/
 
 ## References
 
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+How to format README.md - https://help.github.com/articles/basic-writing-and-formatting-syntax/
+Sacred Harvest - http://ben.kirman.org/2015/05/sacred-harvest/
 
-Credits:
+## Credits:
 
 John Rooksby - Game Design
 Gavin Wood - Game Design
