@@ -13,12 +13,15 @@ TV Aerial Simulator was created for the 48hr game jam for the theme **What Does 
 The game was inspired previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
 
 ## Third Party Assets
-Wood asset, https://opengameart.org/content/wood-texture-tiles
 
 Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
 
 Big Buck Bunny used in video (see https://en.wikipedia.org/wiki/Big_Buck_Bunny / https://peach.blender.org/about/ )
 The movie is licensed under CC-BY, read more about what that means
+
+## Assets
+Wooded cabinet, https://opengameart.org/content/wood-texture-tiles
+Carpet, Attribution 3.0 Unported (CC BY 3.0), https://opengameart.org/content/carpet-texture-red-seamless-texture-with-normalmap
 
 ## Big Buck Bunny
 Copyright (C) 2008 Blender Foundation | peach.blender.org
