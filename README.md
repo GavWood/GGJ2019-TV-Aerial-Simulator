@@ -6,7 +6,7 @@
 
 TV Aerial Simulator recreates our fond memories from the 70s of aligning TV aerials. At least in my childhood my mum would be stood in the lounge telling my dad whether the signal was getting better or worse. My dad would balance on the roof while moving the TV aerial in the somewhat futile task of getting a better signal.
 
-The game is played in VR and needs two or more people to play. One person wears the VR headset and sees an "authentic" 1970s living room and the TV. The other player is the one who would be on a roof. They must move the aerial around to the instructions from the person watching TV to get a better picture.
+The game is played in VR and needs two or more people to play. One person wears the VR headset and sees an "authentic" 1970s living room and the TV. The other player is the one who would be on a roof. They must move the aerial around to the instructions from the person watching TV to get a better picture. For an authentic experience the person with the aerial should rely just on verbal instructions from the viewer rather than by looking at a screen.
 
 ## Background
 
