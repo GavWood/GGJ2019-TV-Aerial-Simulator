@@ -50,4 +50,4 @@ Andrew Patton, Programming and Unity guidance, https://globalgamejam.org/users/a
 
 README.md, https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
-Hashtags: sisyphean
+Hashtags: sisyphean; GGJ19; HTC Vive; MadeWithUnity; IndieDev; Unity
