@@ -10,7 +10,7 @@ The game is played in VR and needs two or more people to play. One person wears 
 
 ## Background
 
-TV Aerial Simulator was created for the 48hr game jam for the theme [**What Does Home Mean to You?**](https://globalgamejam.org/news/theme-global-game-jam-2019-%E2%80%A6)
+TV Aerial Simulator was created for the 48hr game jam for the theme [**What Home Mean to You?**](https://globalgamejam.org/news/theme-global-game-jam-2019-%E2%80%A6)
 
 The game was inspired by previous GGJ games including Sacred Harvest and Keep Talking and Nobody Explodes.
 
