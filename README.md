@@ -16,18 +16,18 @@ The game was inspired by previous GGJ games including Sacred Harvest and Keep Ta
 
 ## Third Party Assets
 
+Perlin noise generator using code direct from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
+
 Big Buck Bunny, Copyright (C) 2008 Blender Foundation | peach.blender.org ome Rights Reserved. Creative Commons Attribution 3.0 license (https://creativecommons.org/licenses/by/3.0/)
 http://www.bigbuckbunny.org/
 
 Carpet, Attribution 3.0 Unported (CC BY 3.0), https://opengameart.org/content/carpet-texture-red-seamless-texture-with-normalmap
 
-Ceiling, para, cc0, https://opengameart.org/content/ceiling-tile-texture
+Ceiling texture, para, CC0 Public Domain, https://opengameart.org/content/ceiling-tile-texture
 
-Perlin noise generator from https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html
+Wallpaper texture, CC0 Public Domain, https://www.publicdomainpictures.net/en/view-image.php?image=234438&picture=leaves
 
-Wallpaper, CC0 Public Domain, https://www.publicdomainpictures.net/en/view-image.php?image=234438&picture=leaves
-
-Wooded cabinet, https://opengameart.org/content/wood-texture-tiles
+Wooden cabinet texture, CC0 Public Domain, https://opengameart.org/content/wood-texture-tiles
 
 ## References
 Sacred Harvest, http://ben.kirman.org/2015/05/sacred-harvest/
@@ -39,6 +39,8 @@ Keep Talking and Nobody Explodes, https://globalgamejam.org/2014/games/keep-talk
 Gavin Wood, Game Design, https://globalgamejam.org/users/gavin-wood
 
 John Rooksby, Game Design, https://globalgamejam.org/users/johnrooksby
+
+## Additional help and support
 
 Ryan Milner, Programming and Unity guidance - https://globalgamejam.org/users/rtm516
 
